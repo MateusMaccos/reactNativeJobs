@@ -33,10 +33,6 @@ Créditos: https://www.youtube.com/@javascriptmastery
 
 ---
 
-## Imagens do Aplicativo:
-
-### Tela inicial
-
 
 
 
